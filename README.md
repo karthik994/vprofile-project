@@ -1,9 +1,9 @@
 Prerequisites:
-AWS Account
-GitHub account
-Jenkins
-Nexus
-SonarQube
+AWS Account,
+GitHub account,
+Jenkins,
+Nexus,
+SonarQube,
 Slack
 
 Flow of Execution:-
